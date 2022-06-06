@@ -21,8 +21,8 @@ Dilate the image.
 ## Program:
 ```
 /*
-Developed by   : Dineshkumar V
-Register Number: 212220230013
+Developed by   : DHANASEKAR.G
+Register Number: 212220230009
 */
 ```
 ``` Python
